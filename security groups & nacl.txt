@@ -1,0 +1,17 @@
+security groups & nacl
+security groups
+statefull firewall
+this is for instance
+nacl network acess control list
+this is for subnet level
+inbound rule or ingress traffic
+outbound or egress traffic
+amazon-linux-extras install nginx1.12 -y
+systemctl start nginx.service
+copy the public ip check
+after give rule http and check
+create nacl
+101 custom tcp 1024-65535
+
+
+
